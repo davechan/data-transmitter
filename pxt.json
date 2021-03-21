@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Tinybit": "github:davechan/tiny-bit#881204f3c165ad8d2f7a9d26ac844f129b0c2e6c"
     },
     "files": [
         "main.blocks",
